@@ -1,22 +1,19 @@
-# adat_challenge
-
-This project shows how to use machine learning models to analyze digit images. In addition, an extra part has been added where it is shown how you can create an interactive demo to show the model using [Gradio](https://github.com/gradio-app/gradio).  
+# data_challenge_eni
+A solution to the problem for my interview with Eni
 
 ---
 ## Content of the notebooks
-1. [Explorative data analysis](https://github.com/ginoferretti/digit_classifier/blob/main/01.explorative_data_analysis.ipynb)
-2. [Model training](https://github.com/ginoferretti/digit_classifier/blob/main/02.train_model.ipynb)
-3. [Web app creation](https://github.com/ginoferretti/digit_classifier/blob/main/03.web_app.py)
-
+1. [Explorative data analysis&model_training](https://github.com/ginoferretti/data_challenge_eni/blob/main/data_challenge_eni.ipynb)
 ---
 
 ## Project requirements
-* Python >= 3.10
+* Python >= 3.9.13
 * A virtual environment with the following libraries installed:
-    * gradio
+    * imblearn
     * joblib
     * numpy
     * scikit-learn
+    * scikit-plot
 ---
 
 ## Install requirements
