@@ -1,6 +1,8 @@
 # data_challenge_eni
 A solution to the problem for my interview with Eni
 
+Disclaimer: PEP8 is not respected due to the request of exporting the notebook via PDF
+
 ---
 ## Content of the notebooks
 1. [Explorative data analysis&model_training](https://github.com/ginoferretti/data_challenge_eni/blob/main/data_challenge_eni.ipynb)
